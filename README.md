@@ -1,25 +1,20 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+# 🛠 Current skills
 
 ###
-
-<p align="left">My name is Keyvan I'm an Epitech student.<br>Feel free to have a look at my projects below.</p>
-
-###
-
-<h2 align="left">I code with</h2>
+- C / C++
+- Rust
+- Python
 
 ###
-
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="40" alt="rust logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/EtaLoop/EtaLoop/output/snake.svg" alt="Snake animation" />
 
 ###
